@@ -1,16 +1,18 @@
 # Super Notification
 
-Super Notification has a powerful notification UX.
-No one will miss the notification.
-
 ![Super Notification application ScreenShot](https://kolee.kr/assets/images/screenshot-29ffb6e3ae31cd9f3b7f4a9fbe275ccf.png)
-![Super Notification application ScreenShot](https://kolee.kr/assets/images/notification-2aa519640a479d4cd69c624c677d8c0a.png)  
+![Super Notification application ScreenShot](https://kolee.kr/assets/images/notification-2aa519640a479d4cd69c624c677d8c0a.png)
+
+Ensure your messages get the attention they deserve with **Super Notification**. Tailored for those moments when your colleagues are deep into their work across multiple monitors, this app delivers your messages in a manner they simply can't miss. Even when inundated with Slack or other messaging apps, **Super Notification** brings your messages to the forefront.
+
+## Upcoming Features
+
+- **Calendar Synchronization:** Never miss an important date with upcoming event reminders.
+
+## Your Feedback Fuels Us
+
+We thrive on your feedback to make **Super Notification** even better. If you have any issues or ideas for improvement, don't hesitate to share them on our [GitHub issues page](https://github.com/koleeit/super-notification/issues).
 
 
-Are my colleagues or business partners not responding to my messages? I think they might not be checking their notifications because they're using two or three monitors.
 
-I've created a simple notification application that they simply must respond to.
-
-Additionally, there's a feature planned for you if you keep forgetting tasks.
-
-[**Feedback&Issue**](https://github.com/koleeit/super-notification/issues) is always welcome.
+With **Super Notification**, your messages will always be in the spotlight. We promise a world where no message goes unnoticed.
